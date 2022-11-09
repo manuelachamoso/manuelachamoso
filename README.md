@@ -3,6 +3,9 @@
 -  :space_invader: I’m looking to collaborate on Open Source Projects.
 - :grinning: Pronouns: She/Her.
 
+[![@manuelachamoso's Holopin board](https://holopin.me/manuelachamoso)](https://holopin.io/@manuelachamoso)
+
+
 <div>
   <a href="https://github.com/manuelachamoso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuelachamoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelachamoso&layout=compact&langs_count=7&theme=dracula"/>
