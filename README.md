@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Manuela Chamoso.
--  :nerd_face: I’m currently learning React and Svelte.
+-  :nerd_face: I’m currently learning React Native, Redux and Outsystems.
 -  :space_invader: I’m looking to collaborate on Open Source Projects.
 - :grinning: Pronouns: She/Her.
 
