@@ -2,7 +2,7 @@
 -  :nerd_face: I’m currently learning React Native, Redux and Outsystems.
 -  :space_invader: I’m looking to collaborate on Open Source Projects.
 - :grinning: Pronouns: She/Her.
-- [My portfolio website]((https://manuelachamoso.com/)
+- [My portfolio website](https://manuelachamoso.com/)
 
 [![@manuelachamoso's Holopin board](https://holopin.me/manuelachamoso)](https://holopin.io/@manuelachamoso)
 
